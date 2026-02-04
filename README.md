@@ -1,8 +1,4 @@
-Java Assignments Repository
 
-This repository contains four Java assignments designed to demonstrate core Java fundamentals, Object-Oriented Programming concepts, custom data structures, exception handling, generics, and Java Streams with Lambda expressions.
-
-The code is structured, modular, and written according to academic and industry best practices.
 
 📁 Repository Structure
 java/
@@ -115,43 +111,4 @@ groupingBy
 
 collectingAndThen
 
-▶️ How to Run the Code
 
-Navigate to any assignment folder and compile:
-
-javac *.java
-java ClassName
-
-
-Example:
-
-cd Assignment-1
-javac ATMMenu.java
-java ATMMenu
-
-🛠 Technologies Used
-
-Java
-
-OOPS Principles
-
-Generics
-
-Exception Handling
-
-Java Streams & Lambda Expressions
-
-Git & GitHub
-
-👤 Author
-
-Rohan Kumar
-GitHub: https://github.com/kumarrohan47
-
-📌 Notes
-
-Code is modular and readable
-
-Proper naming conventions followed
-
-Suitable for academic submission and viva discussion
